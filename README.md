@@ -1,2 +1,2 @@
 # teste-2
-iniciandi no html e css
+iniciando no html e css
